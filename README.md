@@ -67,4 +67,4 @@ This program is a personal project developed as part of my Java bootcamp. While 
 
 Thank you for exploring my Java Learning Program. I hope you find it informative and valuable for your own Java learning journey!
 
-# Happy coding!
+Happy coding!
