@@ -34,16 +34,27 @@ The program follows a modular structure, with each module residing in a separate
 
 Here's an overview of the program's directory structure:
 ├── bin
+
 │ ├── Module1.class
+
 │ ├── Module2.class
+
 │ ├── ...
+
 │ └── Main.class
+
 ├── src
+
 │ ├── Module1.java
+
 │ ├── Module2.java
+
 │ ├── ...
+
 │ └── Main.java
+
 ├── README.md
+
 └── LICENSE
 
 ## Dependencies
