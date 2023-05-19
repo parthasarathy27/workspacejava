@@ -19,7 +19,7 @@ The Java Learning Program is a console-based application that demonstrates the p
 To run the Java Learning Program, follow these steps:
 
 1. Ensure that you have the Java Development Kit (JDK) installed on your system. 
-2. The program is compatible with JDK (https://www.oracle.com/java/technologies/javase-downloads.html).
+2. The program is compatible with JDK [Download Link[(https://www.oracle.com/java/technologies/javase-downloads.html)].
 3. Clone or download the program's repository from [[Repository Link](https://github.com/parthasarathy27/workspacejava)].
 4. Open a command prompt or terminal and navigate to the program's root directory.
 5. Compile the Java source files using the following command:
