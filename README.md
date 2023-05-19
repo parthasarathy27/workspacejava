@@ -23,3 +23,37 @@ To run the Java Learning Program, follow these steps:
 3. Clone or download the program's repository from [[Repository Link](https://github.com/parthasarathy27/workspacejava)].
 4. Open a command prompt or terminal and navigate to the program's root directory.
 5. Compile the Java source files using the following command:
+javac -d bin src/*.java
+6. Once the compilation is successful, run the program with the following command:
+java -cp bin Main
+7. The program will start running, and you will be prompted with a menu to select different modules and exercises. Follow the on-screen instructions to navigate through the program.
+
+## Program Structure
+
+The program follows a modular structure, with each module residing in a separate Java file within the `src` directory. The `Main.java` file serves as the entry point and provides the menu for module selection.
+
+Here's an overview of the program's directory structure:
+├── bin
+│ ├── Module1.class
+│ ├── Module2.class
+│ ├── ...
+│ └── Main.class
+├── src
+│ ├── Module1.java
+│ ├── Module2.java
+│ ├── ...
+│ └── Main.java
+├── README.md
+└── LICENSE
+
+## Dependencies
+
+The Java Learning Program does not have any external dependencies beyond the core Java libraries. It is built using standard Java APIs and does not require any additional frameworks or packages.
+
+## Contribution
+
+This program is a personal project developed as part of my Java bootcamp. While contributions are not expected, feedback and suggestions are always welcome. If you have any ideas for improvements or would like to share your thoughts, feel free to open an issue or submit a pull request.
+
+Thank you for exploring my Java Learning Program. I hope you find it informative and valuable for your own Java learning journey!
+
+# Happy coding!
