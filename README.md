@@ -14,6 +14,8 @@ The Java Learning Program is a console-based application that demonstrates the p
 - Multithreading and concurrency
 - Integration with external libraries and frameworks
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ## How to Run the Program
 
 To run the Java Learning Program, follow these steps:
