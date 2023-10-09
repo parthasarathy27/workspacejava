@@ -1,5 +1,7 @@
 # My Java Learning Program
 
+<img align="centre" height="250" width="375" alt="" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Java-900x0.png" />
+
 Welcome to my Java Learning Program! This program is the culmination of my learning journey during the Java bootcamp. It showcases the various concepts and skills I've acquired, and serves as a comprehensive example of Java programming.
 
 ## Program Overview
